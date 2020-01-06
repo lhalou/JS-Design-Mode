@@ -8,6 +8,7 @@
 - [封装](https://github.com/lhalou/JS-Design-Mode/blob/master/%E5%B0%81%E8%A3%85.js)
 - [单列模式Singleton Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/%E5%8D%95%E5%88%97%E6%A8%A1%E5%BC%8F)
 - [工厂模式Factory Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Factory-Pattern)
+- [桥接模式Bridge Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Bridge-Pattern)
 
 ## 原理：
 
