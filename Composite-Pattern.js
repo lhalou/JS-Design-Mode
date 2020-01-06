@@ -8,6 +8,7 @@ class Container {
         this.element.style.margin = '10px';
         this.element.classList.add('container');
     }
+    //复合物的变化会影响其孩子
     add(child){
         this.children.push(child);
         this.element.appendChild(child.getElement());
