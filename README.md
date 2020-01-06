@@ -9,6 +9,7 @@
 - [单列模式Singleton Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/%E5%8D%95%E5%88%97%E6%A8%A1%E5%BC%8F)
 - [工厂模式Factory Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Factory-Pattern)
 - [桥接模式Bridge Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Bridge-Pattern)
+- [组合模式Composite Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Composite-Pattern.js)
 
 ## 原理：
 
@@ -19,5 +20,10 @@
   1. 对象的构建十分复杂；
   2. 根据不同的条件创建不同的对象；
   3. 处理大量具有相同属性的对象；
+- 桥接模式（Bridge Pattern）：
+把事物对象和其具体行为，具体特征分离开来，使他们可以各自独立的变化.
+- 组合模式（Composite Pattern）
+  1. 层层嵌套的树状结构，整体由复合物和叶子两类元素组成。
+  2. 复合物和叶子有相同的接口，不同的实现。
 
 
