@@ -10,6 +10,10 @@
 - [工厂模式Factory Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Factory-Pattern)
 - [桥接模式Bridge Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Bridge-Pattern)
 - [组合模式Composite Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Composite-Pattern.js)
+- [外观模式Facade Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Factory-Pattern)
+- [适配器模式Adapter Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Adapter-Pattern.js)
+- [命令模式Command Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Command-Pattern.js)
+- [职责链模式Chain of Responsibility Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.js)
 
 ## 原理：
 
