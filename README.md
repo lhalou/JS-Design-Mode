@@ -14,6 +14,9 @@
 - [适配器模式Adapter Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Adapter-Pattern.js)
 - [命令模式Command Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Command-Pattern.js)
 - [职责链模式Chain of Responsibility Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/%E8%81%8C%E8%B4%A3%E9%93%BE%E6%A8%A1%E5%BC%8F.js)
+- [装饰者模式Decorator Pattern](https://github.com/lhalou/JS-Design-Mode/tree/master/Decorator-Pattern)
+- [享元模式Flyweight Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Flyweight-Pattern.js)
+- [观察者模式Observer Pattern](https://github.com/lhalou/JS-Design-Mode/blob/master/Observer-Pattern.js)
 
 ## 原理：
 
