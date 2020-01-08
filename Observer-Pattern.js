@@ -20,12 +20,14 @@ Subject.prototype.removeObserver = function(observer) {
 };
 Subject.prototype.notify = function() {
     this.observers.forEach(function(observer){
+        //主题里面有update()方法
         observer.update()
     })
 };
 
 function Observer(name) {
     this.name = name
+    //订阅者里面一定要有update()方法
     this.update = function(){
         console.log(name + ' update...')
     }
